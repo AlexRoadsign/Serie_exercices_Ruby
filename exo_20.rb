@@ -1,0 +1,1 @@
+puts "Salut, bienvenu dans ma super. pyramide! Combien d'étages veux-tu?"
